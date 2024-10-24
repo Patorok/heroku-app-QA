@@ -1,0 +1,41 @@
+[2024-10-24 18:16:10] - Test Started: Heroku App Export Contacts on File_TC006
+[2024-10-24 18:16:10] - Step 1: Navigate to Herokuapp Website
+[2024-10-24 18:16:10] - Step 2: User Fill Email Field
+[2024-10-24 18:16:10] - Started Function: setObjectValue
+[2024-10-24 18:16:10] - Completed Function: setObjectValue - Successfully Set Value //input[@id="email"]
+[2024-10-24 18:16:10] - Step 3: User Fill Password Field
+[2024-10-24 18:16:10] - Started Function: setObjectValue
+[2024-10-24 18:16:10] - Completed Function: setObjectValue - Successfully Set Value //input[@id="password"]
+[2024-10-24 18:16:10] - Step 4: Click Submit Button
+[2024-10-24 18:16:10] - Started Function: clickObject
+[2024-10-24 18:16:10] - Completed Function: clickObject - Successfully Clicked //button[@id="submit"]
+[2024-10-24 18:16:10] - Login Successfully
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [Angel Galang]
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [2002-04-15]
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [ag@gmail.com]
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [1234567890]
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [agSample Address 1 agSample Address 2]
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [Malolos Bulacan 7984]
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [Philippines]
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [Jeneses Galang]
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [2002-04-15]
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [jg@gmail.com]
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [1234567890]
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [jgSample Address 1 jgSample Address 2]
+[2024-10-24 18:16:10] - Started Function: getObjectText
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [Malolos Bulacan 3000]
+[2024-10-24 18:16:10] - Started Function: getObjectText [td] Text [Philippines]
+[2024-10-24 18:16:10] - Test Completed: Heroku App Export Contacts on File_TC006
